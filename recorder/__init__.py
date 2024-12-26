@@ -1,2 +1,2 @@
-#from .recorder import Record
+from .recorder import Record
 from .interfaces import RecordingAppInterface
