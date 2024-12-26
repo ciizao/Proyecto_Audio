@@ -1,0 +1,4 @@
+./libs/PyAudio-0.2.12-cp311-cp311-win_amd64.whl
+SpeechRecognition==3.8.1
+google-api-python-client==2.23.0
+PyQt5==5.15.6
