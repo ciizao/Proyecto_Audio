@@ -1,3 +1,4 @@
+# -*- Coding: utf-8 -*-
 from PyQt5.QtWidgets import QWidget, QVBoxLayout, QGroupBox, QFormLayout, QLabel,  QGridLayout
 from .plugins.pyqt5_custom import MessageCustom, InputCustom, ButtonCustom, BoxInfoCustom, TableWidgetCustom, MultipleLayoutWidgetCustom
 from config import Settings, Routes
